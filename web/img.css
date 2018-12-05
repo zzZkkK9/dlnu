@@ -1,0 +1,10 @@
+P {
+    font-size: 50px !important;
+}
+
+body{
+    background-image: url("bg.jpg");
+    : url("index_hz01.gif");
+    background-attachment: fixed;
+
+}
